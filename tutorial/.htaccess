@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "EnterPass"
-AuthUserFile .htpasswd
-require valid-user
